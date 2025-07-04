@@ -1,1 +1,2 @@
 This is the first line in a.txt file
+This is the second line added on 4th july 2025
